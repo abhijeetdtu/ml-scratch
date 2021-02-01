@@ -7,3 +7,4 @@ I have tried to give a comprehensive overview with mathematical foundation in th
 2. [Perceptron](https://colab.research.google.com/github/abhijeetdtu/ml-scratch/blob/master/notebooks/2_perceptron.ipynb)
 3. [Maximum Likelihood Estimation](https://colab.research.google.com/github/abhijeetdtu/ml-scratch/blob/master/notebooks/3_MLE.ipynb)
 4. [Logistic Regression and Gradient Descent](https://colab.research.google.com/github/abhijeetdtu/ml-scratch/blob/master/notebooks/4_logistic_regression_gradient_descent.ipynb)
+5. [Linear Regression](https://colab.research.google.com/github/abhijeetdtu/ml-scratch/blob/master/notebooks/5_linear_regression.ipynb)
